@@ -1,0 +1,5 @@
+[flake8]
+import-order-style = google
+select = B,B9,BLK,C,E,F,I,S,W, D, A
+max-line-length = 120
+ignore = D100,D401
